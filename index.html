@@ -3,42 +3,64 @@
     <head>
         <meta charset="utf-8">
         <title>Raytopia</title>
+        <link rel="icon" href="Sprite-0001.jpg"  type="image/icon type">
         <style>
             body{
-                font-family: sans-serif;
-                font-size: 24pt;
-            }
-            a{
-                color: #000;
+                background-color: #211e20;
+                font-family: monospace;
+                color: white;
+                text-align: center;
+                font-size: 28pt;
             }
         </style>
     </head>
-
+    
     <body>
-        <h1>raytopia</h1>
-        <p>About Us</p>
-        
-        <article>  
-            <ul>
-                <li>We make a random projects</li>
-                <li>they aim is for these projects to cheer people up</li>
-                <li>as the world can be a dark stressful place at times</li>
-                <li>we also won't to build a supporting and safe community</li>
-                <li>that anyone can make home</li>
-            </ul>
-        </article>
-      
-        
-        <menu>            
-            <a href="https://raytopian-projects.itch.io/">itch.io Page</a><br>
-            <a href="https://www.patreon.com/raytopia">Patreon</a><br>
-            <a href="https://www.redbubble.com/people/raytopia/shop?asc=u">Merch</a><br>
-            <a href="https://github.com/raytopianprojects">GitHub</a><br>
-            <a href="https://www.youtube.com/channel/UCBn94p4Iadui8ktu6aECg0w">YouTube</a><br>
-            <a href="https://discord.gg/ycpeweT">Discord</a>
-        </menu>
-        
-        <p>P.S. You're a kind and amazing person</p>
+        <div>
+            <article>
+                <h2>Join Raytopian Projects Today</h2>
+                <h3>You've Been Here For</h3>
+<div id="counter"></div>
 
+                <h4>What Are You Waiting For</h4>
+
+            </article>
+     <script>
+            var up = true;
+var value = 0;
+var increment = 1;
+
+function PerformCalc() {
+  if (up == true) {
+    value += increment
+  }
+
+  document.getElementById('counter').innerHTML = value + " sec";
+}
+setInterval(PerformCalc, 1000);
+            </script>
+        </div>
+        
+        <div>
+                
+            <div>
+                <form action="https://discord.gg/73Pdy87">
+                    <button type="submit" style="background-color: #7289DA; display: inline-block; border: none; font-family: monospace;
+                color: white; text-align: center; font-size: 16pt;   cursor: pointer;">
+                        Join Our Discord
+                    </button>
+                </form>
+                <p style="font-size:18pt">Or</p>
+                <form action="https://www.patreon.com/Raytopia">
+                    <button type="submit" style="background-color: #F96854; display: inline-block; border: none; font-family: monospace;
+                color: white; text-align: center; font-size: 16pt;   cursor: pointer;">
+                        Join Our Patreon
+                    </button>
+                </form>
+                <p style="font-size: 8pt">PS You're Awesome!</p>
+            </div>
+                
+        </div>
+        
     </body>
 </html>
