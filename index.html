@@ -6,25 +6,43 @@
         <link rel="icon" href="Sprite-0001.jpg"  type="image/icon type">
         <style>
             body{
-                background-color: #211e20;
+                background-color: #02022a;
                 font-family: monospace;
                 color: white;
                 text-align: center;
                 font-size: 28pt;
+            }
+            a:hover{
+                text-decoration: none;
+            }
+            a{
+                text-decoration: none;
+                color: white;
+            }
+            .flex-div{
+                  background-color: #847e87;
+                  width: 150px;
+                  margin: 10px;
+                  text-align: center;
+                  line-height: 10px;
+                  font-size: 16pt;
+                  border-radius: 4px;
             }
 
         </style>
     </head>
     
     <body>
-        <div style="position: relative; float: right; margin-bottom: auto; clear: both;">
+        <div style="display: flex; flex-wrap: nowrap; justify-content: flex-end; margin-bottom: -50px;">
+            <!--<p style="font-size: 18pt; line-height: 12px; margin-right: 10px;">Blog</p>-->
+            <!--<p style="font-size: 18pt; line-height: 12px; margin-right: 10px;">Projects</p>-->
             <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script>
-            <script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', '#666', 'Q5Q429TX1');kofiwidget2.draw();</script> 
+            <script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', '#ac3232', 'Q5Q429TX1');kofiwidget2.draw();</script> 
             <br>
         </div>
         <div style="position: relative; float: none; clear: both;">
             <article>
-                <h2>The Party Is Here</h2>
+                <h2>We Make Experiences</h2>
                 <h3 style="font-size: 20pt">You've Wasted</h3> 
                 <div id="counter"></div>
 
@@ -47,15 +65,29 @@
         </div>
         
         <div>
+                <p>View Our Stuff</p>
+            <div style="display: flex; flex-wrap: nowrap; justify-content: center;">                
+                <div class="flex-div";> 
+                    <a href="https://www.youtube.com/channel/UCBn94p4Iadui8ktu6aECg0w/">
+                       <p style="font-size: 22pt;">Videos</p>
+                    </a>
+                </div>
                 
-            <div class="outer">
-               <iframe src="https://discord.com/widget?id=766007967958564904&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-                <br>           
+                <div class="flex-div";> 
+                    <a href="https://www.redbubble.com/people/raytopia/shop?asc=u">
+                        <p style="font-size: 22pt;">Merch</p>
+                    </a>
+                </div>
                 
+                <div class="flex-div";> 
+                    <a href="https://github.com/raytopianprojects?tab=repositories">
+                        <p style="font-size: 22pt;">GitHub</p>
+                    </a>
+                </div>
                 
-                <p style="font-size: 10pt">PS You're Awesome!</p>
             </div>
-                
+            <p style="font-size: 10pt">PS You're Awesome!</p>
+            
         </div>
         
     </body>
