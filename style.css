@@ -1,0 +1,14 @@
+   body{
+                background-color: #212121;
+                font-family: monospace;
+                color: white;
+                text-align: center;
+                font-size: 28pt;
+            }
+
+            a{
+                color: white;
+            }
+            a:hover{
+                text-decoration: overline;
+            }
