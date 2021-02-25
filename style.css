@@ -1,13 +1,13 @@
     body{
-        background-color: #222;
+        background-color: #222d32;
         font-family: monospace;
-        color: #dadada;
+        color: #f4f4f4;
         text-align: center;
         font-size: 4em;
     }
 
     a{
-        color: #b1b1b1;
+        color: #7bc1ca;
     }
 
     a:hover{
