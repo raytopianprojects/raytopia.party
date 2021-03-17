@@ -1,4 +1,15 @@
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 
-International License.
+Short & Sweet Public License
 
-https://creativecommons.org/licenses/by-sa/4.0/
+Permission is granted to anyone to use this Work for any purpose, including commercial applications, and to alter it, and redistribute it freely, subject to the following restrictions:
+
+    You must license any version, altered or not, of this Work, the output of this Work, and any work that uses this Work under this license.
+
+    If you redistribute this Work or run a network service that uses this Work you must notify and provide easily accessible URL(s) to where anyone can freely download, in its preferred version for altering, this Work.
+
+    This license may not be altered.
+
+    You must notify and provide an easily accessible URL to this license with this Work.
+
+    You may not restrict anyone in any way from doing what this license permits.
+
+This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work.
