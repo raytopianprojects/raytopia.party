@@ -1,15 +1,16 @@
-Short & Sweet Public License  
+Short & Sweet Public License 
 
-Permission is granted to anyone to use this Work for any purpose, including commercial applications, and to alter it, and redistribute it freely, subject to the following restrictions:  
+*This work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this work.*
 
-1. You must license any version, altered or not, of this Work, the output of this Work, and any work that uses this Work under this license. 
+Permission is granted to use, copy, modify, and/or distribute this work for any purpose, even commercially, subject the following conditions:  
 
-2. If you redistribute this Work or run a network service that uses this Work you must notify and provide easily accessible URL(s) to where anyone can freely download, in its preferred version for altering, this Work. 
+1. A link to this license and a link to where this work's preferred form for modifying can be downloaded for free must appear, in a publicly accessible way, with all copies of this work and with any services using this work.  
 
-3. This license may not be altered. 
+2. If you modify or build upon this work you must license your modifications and the work built upon this work under this license.  
 
-4. You must notify and provide an easily accessible URL to this license with this Work.  
+3. You may not change this work's license.
 
-5. You may not restrict anyone in any way from doing what this license permits.  
+4. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work. 
+If you fail to comply with any of the above conditions the permissions granted under this license are revoked immediately. 
+
